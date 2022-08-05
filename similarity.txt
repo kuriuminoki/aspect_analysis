@@ -1,0 +1,113 @@
+community
+['library', 'popular', 'well', 'byte', 'provide', 'know', 'personally', 'eclipse', 'sqlite', 'http://www.sqlite.org/', 'actively', 'develop', 'would', 'large', 'community', 'stable', 'widespread', 'opposite', 'sql', 'storage', 'engineering', 'maintain', 'widely', 'manipulation', 'standard', 'news', 'miss', 'use', 'task', 'like', 'together', 'arg', 'pretty', 'fix', 'user', 'seem', 'objenesis', 'bad', 'inject', 'code', 'solve', 'bug', 'app', 'document', 'tool', 'little', 'less', 'small', 'object', 'hard', 'great', 'constructor', 'pojo', 'bean', 'able', 'much', 'result', 'default', 'information', 'most', 'good', 'probably', 'proxy', 'database', 'package', 'name', 'include', 'problem', 'javassist', 'read', 'new', 'simple', 'cglib', 'when', 'try', 'just', 'more', 'way', 'very', 'file', 'parse', 'could', 'can', 'support', 'then', 'create', 'class']
+S(community) = 0.142951810466552
+
+compatibility
+['version', 'asm', 'work', 'support', 'hibernate', 'compatible', 'cglib', 'deprecate', 'incompatible', 'android', 'jar', 'file', '1.5.3', 'incompatibility', 'add', 'problem', 'spring', 'httpclient', 'detail', 'link', 'will', 'still', 'use', 'require', 'one', 'come', 'great', 'look', 'dependency', 'start', 'now', 'issue', 'can', 'fast', 'only', 'see', 'know', 'so', 'may', 'far', 'clash', 'binary', 'elsewhere', 'raise', 'supply', 'java8', 'software', 'hope', 'lib', "cann't", 'wsjar', 'maybe', 'ship', 'sni', 'conflicting', 'namevaluepair', 'lollipop', 'onwards', 'build.gradle', 'sync', 'secret', 'driver', 'jsch', 'portability', 'should', 'want', 'later', 'partially', 'arbitrary', 'pre', 'existing', 'lock', 'tiny', 'speed', 'certain', 'defaulthttpclient', 'httpclientbuilder', 'hook', 'dynamic', 'switch', 'protocol', 'widely', 'indeed', 'release', 'situation', 'not', 'sound']
+S(compatibility) = 0.14315086306494654
+
+documentation
+['documentation', 'find', 'tutorial', 'example', 'how', 'document', 'read', 'well', 'look', 'see', 'method', 'here', 'source', 'more', 'official', 'include', 'quite', 'also', 'task', 'end', 'site', 'may', 'clear', 'understand', 'can', 'implementation', 'great', 'level', 'client', 'information', 'take', 'contain', 'where', 'httpclient', 'will', 'javassist', 'code', 'deserialize', 'joptionpane', 'setconfig', 'associate', 'plugin', 'explanatory', 'info', 'https://zeroturnaround.com/rebellabs/how-to-make-java-more-dynamic-with-runtime-code-generation/', 'dirty', 'hack', 'gcc', 'man', 'fairly', 'allude', 'control', 'short', 'carefully', 'faq', 'describe', 'guidance', 'brilliant', 'used', 'kind', 'javasssist', 'beginning', 'body', 'interative', 'evaluation', 'vague', 'clue', 'very', 'means', 'locating', 'specification', 'filter', 'minimal', 'agent', 'entry', 'magic', 'main', 'excellent', 'folder', 'achieve', 'section', 'ssh', 'following', 'program', 'system', 'option', 'loading']
+S(documentation) = 0.1361810982290008
+
+functional
+['can', 'use', 'class', 'support', 'library', 'allow', 'javassist', 'proxy', 'provide', 'code', 'object', 'runtime', 'create', 'method', 'dynamically', 'database', 'load', 'handle', 'such', 'cglib', 'could', 'information', 'will', 'only', 'possible', 'convert', 'mechanism', 'file', 'want', 'also', 'type', 'package', 'implement', 'property', 'reflection', 'api', 'automatically', 'parse', 'string', 'other', 'httpclient', 'deserialize', 'access', 'time', 'set', 'bytecode', 'scan', 'metadata', 'feature', 'byte', 'then', 'give', 'may', 'remote', 'framework', 'interface', 'need', 'nest', 'name', 'way', 'should', 'asm', 'generate', 'model', 'work', 'look', 'able', 'already', 'part', 'source', 'custom', 'enhance', 'mode', 'non', 'query', 'actually', '-', 'connect', 'available', 'fly', 'field', 'send', 'inject', 'annotate', 'objenesis', 'find', 'modify']
+S(functional) = 0.157020084746743
+
+performance
+['fast', 'performance', 'also', 'well', 'much', 'use', 'could', 'other', 'very', 'streaming', 'api', 'small', 'enough', 'more', 'most', 'powerful', 'instead', 'support', 'slow', 'performant', 'as', 'library', 'need', 'efficient', 'extremely', 'late', 'advantage', 'improve', 'lightweight', 'design', 'many', 'bit', 'tell', 'conversion', 'generic', 'model', 'generate', 'depend', 'version', 'easy', 'work', 'result', 'then', 'time', 'deserialization', 'feature', 'good', 'class', 'probably', 'serialization', 'possible', 'directly', 'case', 'runtime', 'can', 'note', 'asm', 'will', 'only', 'provide', 'know', 'cglib', 'jar', 'may', 'databinde', 'improvement', 'gzip', 'compression', 'bandwidth', 'interact', 'suffer', 'isolate', 'recommendable', 'effect', 'unpredictable', 'penalty', 'transforming', 'recent', 'benchmark', 'worried', 'originally', 'stability', 'benchmarke', 'painfully', 'after', 'editor', 'connector']
+S(performance) = 0.13520248448957223
+
+reliability
+['cglib', 'bug', 'robust', 'trouble', 'key', 'when', 'version', '-', 'buggy', 'problem', 'quite', 're', 'cause', 'more', 'very', 'use', 'have', 'object', 'extend', 'implementation', 'work', 'look', 'well', 'format', 'class', 'serialization', 'change', 'as', 'issue', 'fast', 'call', 'about', 'hour', 'endless', 'thick', 'skull', 'renderer', 'bi', 'directional', 'releationship', '@onetomany', 'matter', 'exotic', 'interception', 'getmethod', 'getdeclaredmethod', 'apache', 'due', 'closeablehttpclient', 'classloading', 'encrypting', 'signature', 'general', 'wether', 'feel', 'impression', 'select', 'conservative', 'length', 'localvariabletable', 'potentially', 'problematic', 'cool', 'derive', '0.3.6', 'multipart', 'parse', 'file', 'constant', 'pool', 'force', 'namespace', 'avoid', 'stable', 'transaction', 'httpclientbuilder', 'empty', 'encrypt', 'private', 'receive', 'actual', 'timeout', 'current', 'refer', 'loader', 'bulletproof', 'full']
+S(reliability) = 0.11541704022094734
+
+usability
+['easy', 'use', 'simple', 'very', 'library', 'quite', 'more', 'just', 'powerful', 'line', 'make', 'can', 'code', 'example', 'even', 'parse', 'convert', 'straightforward', 'ease', 'probably', 'follow', 'however', 'also', 'easily', 'most', 'method', 'httpclient', 'way', 'interface', 'http', 'such', 'api', 'performance', 'exist', 'read', 'less', 'other', 'object', 'here', 'hard', 'consider', 'side', 'would', 'take', 'will', 'good', 'could', 'server', 'now', 'build', 'verbose', 'notably', 'simplify', 'elegant', 'intermediate', 'decide', 'simplicity', 'practically', 'engine', 'corresponding', 'candidate', 'cross', 'messaging', 'architecture', 'database', 'case', 'well', 'note', 'prefer', 'hsqldb', 'heavyweight', 'parser', 'language', 'communication', 'set', 'see', 'guess', 'beanutil', 'derby', 'step', 'pretty', 'prove', 'call', 'when', 'class', 'jar', 'custom']
+S(usability) = 0.14931958280313257
+
+
+1: ADJ_COMPATIBILITY_NEU (1.0)
+2: ADV_COMPATIBILITY_NEU (0.7188379168510437)
+3: NOUN_COMPATIBILITY_POS (0.6912690550088882)
+4: ADJ_DOCUMENTATION_NEG (0.6623419523239136)
+5: VERB_PERFORMANCE_NEU (0.6451383233070374)
+6: ADJ_FUNCTIONAL_NEU (0.6400086283683777)
+7: ADJ_USABILITY_NEU (0.6312842845916748)
+8: NOUN_DOCUMENTATION_NEG (0.6233293414115906)
+9: VERB_USABILITY_NEU (0.6214091256260872)
+10: VERB_COMMUNITY_NEG (0.5945368334650993)
+11: ADJ_COMMUNITY_NEG (0.593379122018814)
+12: ADV_DOCUMENTATION_NEG (0.5878777652978897)
+13: ADV_PERFORMANCE_NEU (0.5554384261369705)
+14: ADV_USABILITY_NEU (0.5359444543719292)
+15: VERB_USABILITY_NEG (0.5281633834044138)
+16: VERB_RELIABILITY_NEU (0.5251083076000214)
+17: ADJ_PERFORMANCE_NEU (0.5077609829604626)
+18: ADV_COMPATIBILITY_NEG (0.5055484633360591)
+19: NOUN_USABILITY_NEU (0.5055444896221161)
+20: NOUN_RELIABILITY_NEG (0.49854645878076553)
+21: NOUN_COMMUNITY_NEG (0.49835054855793715)
+22: NOUN_COMMUNITY_POS (0.4771560672670603)
+23: ADJ_COMMUNITY_POS (0.4756353109010628)
+24: VERB_COMPATIBILITY_NEG (0.47463606745004655)
+25: NOUN_RELIABILITY_POS (0.474459495395422)
+26: ADJ_PERFORMANCE_NEG (0.47141848338974846)
+27: ADV_RELIABILITY_NEG (0.4681253120303154)
+28: ADV_USABILITY_NEG (0.46087266164166585)
+29: ADJ_COMPATIBILITY_NEG (0.452687589983855)
+30: NOUN_COMPATIBILITY_NEU (0.4510740604665544)
+31: ADV_DOCUMENTATION_POS (0.4491510645106987)
+32: VERB_COMPATIBILITY_POS (0.4331859323595251)
+33: VERB_RELIABILITY_POS (0.4315905816853046)
+34: VERB_COMPATIBILITY_NEU (0.4291142804755105)
+35: ADV_FUNCTIONAL_NEG (0.4226158480056458)
+36: ADV_PERFORMANCE_NEG (0.41625943241847885)
+37: ADV_COMMUNITY_POS (0.4111206095133509)
+38: VERB_PERFORMANCE_NEG (0.40749570792540907)
+39: ADV_RELIABILITY_POS (0.4055108930915594)
+40: ADJ_USABILITY_NEG (0.4046061129442283)
+41: ADV_COMPATIBILITY_POS (0.3995815277099609)
+42: VERB_COMMUNITY_POS (0.3956146173711334)
+43: VERB_RELIABILITY_NEG (0.39512650003390654)
+44: VERB_FUNCTIONAL_NEU (0.3813820543388526)
+45: ADV_PERFORMANCE_POS (0.37975682380298775)
+46: NOUN_USABILITY_NEG (0.35866760329476427)
+47: ADJ_PERFORMANCE_POS (0.3569841499186375)
+48: ADV_USABILITY_POS (0.3501128669489514)
+49: NOUN_RELIABILITY_NEU (0.3432527018710971)
+50: ADJ_RELIABILITY_NEG (0.34323256835341454)
+51: NOUN_DOCUMENTATION_POS (0.3370506011203609)
+52: VERB_DOCUMENTATION_POS (0.3369494361270751)
+53: VERB_PERFORMANCE_POS (0.32882712792072977)
+54: VERB_FUNCTIONAL_NEG (0.3237793913254371)
+55: VERB_USABILITY_POS (0.31303383806696183)
+56: ADJ_RELIABILITY_POS (0.29993951005268504)
+57: ADJ_USABILITY_POS (0.29356730612063847)
+58: ADV_FUNCTIONAL_POS (0.28041278035379946)
+59: NOUN_FUNCTIONAL_NEU (0.2779956500356396)
+60: ADJ_COMPATIBILITY_POS (0.2755662050098181)
+61: NOUN_PERFORMANCE_NEG (0.2735870036262053)
+62: ADJ_DOCUMENTATION_POS (0.2517960696758774)
+63: VERB_FUNCTIONAL_POS (0.2466282850470055)
+64: NOUN_PERFORMANCE_POS (0.2401374034010447)
+65: ADJ_FUNCTIONAL_NEG (0.22882692186210893)
+66: NOUN_USABILITY_POS (0.22815693651612562)
+67: NOUN_FUNCTIONAL_POS (0.22157486185212347)
+68: NOUN_FUNCTIONAL_NEG (0.21395872204697558)
+69: ADJ_FUNCTIONAL_POS (0.20881823208167372)
+70: ADV_COMMUNITY_NEG (0)
+71: NOUN_COMMUNITY_NEU (0)
+72: VERB_COMMUNITY_NEU (0)
+73: NOUN_COMPATIBILITY_NEG (0)
+74: VERB_DOCUMENTATION_NEG (0)
+75: VERB_DOCUMENTATION_NEU (0)
+76: NOUN_PERFORMANCE_NEU (0)
+77: ADJ_RELIABILITY_NEU (0)
+S(community) = 0.34457931090944577
+S(compatibility) = 0.48595842488760516
+S(documentation) = 0.36094402560748956
+S(functional) = 0.31327285230160357
+S(performance) = 0.38190032206730934
+S(reliability) = 0.3804447571722265
+S(usability) = 0.43594692192912976

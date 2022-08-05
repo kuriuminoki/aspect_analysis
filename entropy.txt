@@ -1,0 +1,23 @@
+アスペクト内でどれくらい単語の出現にバリエーション
+があるかを示すエントロピーです。
+
+community : size = 10, iteration = 100
+H(community) = 7.138110488990297
+
+compatibility : size = 32, iteration = 400
+H(compatibility) = 6.974130910407345
+
+documentation : size = 32, iteration = 400
+H(documentation) = 6.952850189115926
+
+functional : size = 166, iteration = 1700
+H(functional) = 7.052357936976372
+
+performance : size = 40, iteration = 400
+H(performance) = 7.1006250169595795
+
+reliability : size = 28, iteration = 300
+H(reliability) = 7.055302538206922
+
+usability : size = 81, iteration = 900
+H(usability) = 6.982535539266518
